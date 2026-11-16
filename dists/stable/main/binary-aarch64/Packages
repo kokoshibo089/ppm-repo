@@ -1,8 +1,13 @@
 Package: ppm
 Version: 1.0
 Architecture: aarch64
-Maintainer: kokosshibo089
+Maintainer: by kokoshibo089
 Depends: nodejs, curl, dpkg
-Filename: pool/main/ppm-pkg.deb
-Size: 2780
 Description: Poppy Package Manager (PPM) - A standalone package manager for Termux.
+Filename: dists/stable/main/binary-aarch64/ppm-pkg.deb
+Size: 2780
+MD5Sum: d777ee87ca94f1b310e825e7770b5c06
+SHA1: 5dbe0bba18689b14692f6c358e8dacd4cb2417c1
+SHA256: bf64d8fd8ed5ff6cf84e9e43f3be48bb6196aeb9b64e0d079da76761532c4ad7
+SHA512: 0c4513bdb8150f7fd4a7d866bb35e4a3526931e24c5630001818e1a31b752d1cf97de45b3481ec4969709c5bf8b6b9b5c6c6811e33c12702cf45836d8ca1f64d
+
